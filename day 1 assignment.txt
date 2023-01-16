@@ -1,0 +1,16 @@
+1.Internet is a global cinnected network which provides information and helps to access sites,files etc.
+
+
+2.Web browser is an application software which helps in accessing information from any website from any part of world until and unless we are connected to so,e network..
+  
+
+
+3.It mainly consists of (1)layout/rendering machine which is basically HTML and CSS
+                        (2)Javascript engine
+
+
+4.A static website is the website where the data frequently doesnt change in other words data is not generated dynamically.It doesnt have more server side logic.
+  example-- Our resume.
+
+5.A dynamic site is the website where the data freuently changes ie, data  is generated dynamically.Here there is more serverside logic.It is costly.
+  Example--Twitter.
